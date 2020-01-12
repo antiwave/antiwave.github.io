@@ -1,0 +1,3 @@
+[submodule "反波Antiwave/themes/zen"]
+	path = 反波Antiwave/themes/zen
+	url = https://github.com/frjo/hugo-theme-zen.git
