@@ -1,0 +1,24 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Post on 反波 Antiwave",
+    "description": "Recent content in Post on 反波 Antiwave",
+    "home_page_url" : "https://antiwave.github.io/",
+    "feed_url" : "https://antiwave.github.io/post/index.json",
+    "icon" : "https://antiwave.github.io/apple-touch-icon-180.png",
+    "favicon" : "https://antiwave.github.io/icon-64.png",
+    "author" : {
+        "name" : "Flypig",
+        "url": "http://flypig.net",
+        "avatar": "https://antiwave.github.io/path/to/some-image.jpg"
+    },
+    "items" : [
+    {
+        "title" : "听平客讲段子1-主持人",
+        "date_published" : "2005-04-16T19:06:12+08:00",
+        "date_modified" : "2005-04-16T19:06:12+08:00",
+        "id" : "https://antiwave.github.io/post/%E5%90%AC%E5%B9%B3%E5%AE%A2%E8%AE%B2%E6%AE%B5%E5%AD%901-%E4%B8%BB%E6%8C%81%E4%BA%BA/",
+        "url" : "https://antiwave.github.io/post/%E5%90%AC%E5%B9%B3%E5%AE%A2%E8%AE%B2%E6%AE%B5%E5%AD%901-%E4%B8%BB%E6%8C%81%E4%BA%BA/",
+        "content_html" : "\u003cp\u003e\u003cimg src=\"/img/%E5%90%AC%E5%B9%B3%E5%AE%A2%E8%AE%B2%E6%AE%B5%E5%AD%901.gif\" alt=\"听平客讲段子1.gif\"\u003e\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"%5Bhttps://f000.backblazeb2.com/file/antiwave/%E5%90%AC%E5%B9%B3%E5%AE%A2%E8%AE%B2%E6%AE%B5%E5%AD%901+-+%E4%B8%BB%E6%8C%81%E4%BA%BA.mp3%5D(https://f000.backblazeb2.com/file/antiwave/%E5%90%AC%E5%B9%B3%E5%AE%A2%E8%AE%B2%E6%AE%B5%E5%AD%901+-+%E4%B8%BB%E6%8C%81%E4%BA%BA.mp3)\"\u003e音频下载\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e电台里出的笑话层出不穷，崔永元曾在《不过如此》里列出精华，其实，还有很多在民间流传的真实笑话未被开采。　　\u003c/p\u003e\n\u003cp\u003e按年头算，这个段子发生在上世纪90年代初期，那时候，各地刚开始尝试直播，主持人几乎都没什么经验，于是，段子也便由此创下历史新高。\u003c/p\u003e\n\u003cp\u003e据说，这个段子的主人公后来挨了处分，其实，大可不必，那个打热线的听众定是从马三立那里获得了幽默的真功，否则怎么能幽默成这个样子，而主持人要是能勇于自嘲些，怕就是妙语生花的别样天地了吧。\u003c/p\u003e\n\u003cp\u003e这个段子有一个特点，那段听众热线，必须得用天津话讲。\u003c/p\u003e\n\u003cp\u003e若问此事是否真的发生在天津，这个吗，这个吗，呵呵，哈哈，霍霍，吼吼，嗷嗷！\u003c/p\u003e\n"
+    }
+    ]
+}
