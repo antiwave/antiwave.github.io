@@ -99,6 +99,22 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
-
+# Netlify CMS 相关
 netlify_cms:
   config_file: netlify.yaml
+
+# podcast订阅相关
+
+#Podcast
+podcast:
+    type: rss2
+    path: podcast.xml
+    limit: 100
+    hub: https://pubsubhubbub.appspot.com/
+    url: https://content.antiwave.tech/file/antiwave
+    description: ALL RADIOS GO TO HELL!
+    language: zh-CN
+    copyright: "@反波Antiwave"
+    owner: Flypig & 平客
+    email: antiwave@tutanota.com
+    category: News
