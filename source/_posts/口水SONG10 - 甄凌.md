@@ -10,6 +10,12 @@ tags:
 
 ![](https://antiwave.tech/wp-content/uploads/2020/01/05-09-06.gif)
 
+<audio controls height="100" width="100">
+  <source src="https://content.antiwave.tech/file/antiwave/%E5%8F%A3%E6%B0%B4Song10+-+%E7%94%84%E5%87%8C.mp3" type="audio/mpeg">
+  <embed height="50" width="100" src="https://content.antiwave.tech/file/antiwave/%E5%8F%A3%E6%B0%B4Song10+-+%E7%94%84%E5%87%8C.mp3">
+</audio>
+
+
 　　10年前甄凌在上海出道，那一年她15岁，唱歌那叫一个空灵，让上海人很是自豪了一阵子。利索索签了约，请到了当时最扎实的制作阵容托底，做了一张专辑，榜也打了，歌也火了。可偏偏就在这时候，遇到政策瓶颈，公司没办法按照原计划大陆港台同步发片。做好的母带压在仓库里，一直到现在。  
 　　一位很会唱歌的歌手，很小就崭露头角，可偏偏一路阴错阳差，最后也没能出版一张唱片，由不得你不唏嘘。  
 　　当然，不排除她个人状态的因素，比如甄凌一直不大喜欢声色犬马的娱乐圈，比如当年她年纪太小，一些决定不免草率。但是，机缘巧合的因素却很是关键。反正命里注定她没能成为一位唱出来的歌手。  
